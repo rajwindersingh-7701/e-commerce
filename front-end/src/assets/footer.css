@@ -1,0 +1,13 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background:linear-gradient(45deg, #232526, #414345);
+    color: #fff;
+    z-index: 9;
+    padding: 12px 0;
+}
+h3.footer-title {
+    margin: 0;
+}
